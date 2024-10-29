@@ -19,6 +19,8 @@
     </p>
 <p align="center">
 
+## BOT IS NOW FIXED
+
  ## ES_TEAMS-V1 Deployment Methods
 
 ### 1. FORK THIS REPO
@@ -36,6 +38,16 @@
 
 ## WATCH PANEL TUTORIAL VIDEO.
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/hJTYSquTtE8)
+
+
+### 3. DEPLOY ON GOOGLE CONSOLE
+
+1. Deploy ES TEAMS V1 on Console without a Panel. Note that it doesnt run 24/7
+    <br>
+    <a href='https://console.cloud.google.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=bot-hosting.net&logoColor=white'/></a>
+
+## WATCH CONSOLE TUTORIAL VIDEO.
+* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/VktpLnc8PK8)
 
 
     <h2 align="center"> ⚠️ NOTE  </h2>
